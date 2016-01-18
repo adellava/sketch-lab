@@ -16,9 +16,17 @@ https://github.com/utom/sketch-measure
 
 https://github.com/JohnCoates/CSSketch
 
+https://github.com/timuric/Content-generator-sketch-plugin
+
 
 ## apps
 
-https://app.zeplin.io
+http://www.invisionapp.com/
 
-http://avocode.com
+http://www.sketchapp.com/tool/
+
+## grunt
+
+npm install
+
+grunt sketch
